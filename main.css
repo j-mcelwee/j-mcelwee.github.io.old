@@ -56,14 +56,9 @@ body {
   padding-left: 20px;
 }
 .rockclimbimage {
-	float: right;    
-	width: auto;
-	max-width= 67%;
-	height; auto;
-	flex: 1;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
 
 /* Add a card effect for articles */
 .card {
